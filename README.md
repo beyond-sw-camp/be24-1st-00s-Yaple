@@ -1,6 +1,5 @@
 <!-- =======================================================
 Yaple (야플) - README (Fancy)
-
 ======================================================= -->
 
 <p align="center">
@@ -16,6 +15,12 @@ Yaple (야플) - README (Fancy)
   <img src="https://img.shields.io/badge/Project-Yaple-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Web%20(Responsive)-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Developing-orange?style=for-the-badge" />
+</p>
+
+<!-- ✅ 팀원(한 줄 4명) -->
+<p align="center">
+  <b>👥 Team</b><br/>
+  <sub>최재원 · 범윤준 · 이선엽 · 김민규</sub>
 </p>
 
 <p align="center">
@@ -93,7 +98,7 @@ Yaple (야플) - README (Fancy)
 
 ## 🧰 기술 스택
 
-- **Front-end**:React / Next.js
+- **Front-end**: React / Next.js
 - **Back-end**: Spring Boot / Node.js
 - **DB**: MariaDB
 - **Infra**: Docker / Nginx / GitHub Actions
@@ -103,21 +108,19 @@ Yaple (야플) - README (Fancy)
 
 ## 📌 문서(Docs)
 
-- 📄 프로젝트 기획서:
-
+### 📄 프로젝트 기획서
 <p align="center">
   <a href="docs/프로젝트%20기획안.pdf">
     <img src="https://img.shields.io/badge/📕%20Yaple%20프로젝트%20기획안-PDF%20바로%20보기-blue?style=for-the-badge" />
   </a>
 </p>
 
-- 🧱 시스템 아키텍처:
-
-  <p align="center">
+### 🧱 시스템 아키텍처
+<p align="center">
   <img src="images/Architecture.png" alt="Architecture" width="900">
 </p>
-- 🗺️ ERD:
 
+### 🗺️ ERD
 <p align="center">
   <img src="images/erd.png" alt="ERD" width="900">
 </p>
@@ -132,9 +135,3 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
-
-
-
-
-
-
