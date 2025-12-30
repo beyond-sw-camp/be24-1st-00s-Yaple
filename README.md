@@ -10,6 +10,9 @@ Yaple (야플) - README (Fancy)
 
 <h1 align="center">⚾️ Yaple (야플)</h1>
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FC08D,100:06B6D4&height=2&section=header" />
+</p>
+<p align="center">
   <b>야구 입문 · 직관 메이트 · 커뮤니티 · 혜택 · 안전</b><br/>
   <sub>입문자는 더 쉽게, 직관은 더 즐겁게, 커뮤니티는 더 안전하게 🚀</sub>
 </p>
@@ -164,6 +167,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
