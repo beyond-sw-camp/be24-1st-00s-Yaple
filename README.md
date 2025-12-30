@@ -17,8 +17,6 @@ Yaple (야플) - README
 ## 팀원 소개
 김민규, 이선엽, 범윤준, 최재원
 
-> GitHub 프로필 링크가 있으면 `[@아이디](https://github.com/아이디)` 형태로 넣어주세요.
-
 ---
 
 ## 프로젝트 개요
@@ -126,30 +124,26 @@ Yaple (야플) - README
 
 ## 프로젝트 기획과 설계 (Docs)
 
-> 아래 문서/이미지는 `/docs` 폴더에 넣으면 링크가 살아납니다.
-
 - 시스템 아키텍처: `docs/architecture.png` (추가 예정)
 - ERD: `docs/erd.png` (추가 예정)
 - 프로젝트 기획서(PDF): `docs/프로젝트 기획안.pdf`
 
 ---
 
-## 기술 스택 (예시 템플릿)
+## 기술 스택
 
 > 실제 사용 스택으로 바꿔 넣어주세요.
 
-- Front-end: (예) React / Next.js / Vue
-- Back-end: (예) Spring Boot / Node.js / Django
-- DB: (예) MariaDB / MySQL / PostgreSQL
-- Cache/Queue: (예) Redis / Kafka
-- Infra: (예) Docker / Nginx / GitHub Actions
-- Monitoring: (예) Prometheus / Grafana
+- Front-end: Next.js / Vue
+- Back-end: Spring Boot / Node.js
+- DB: MariaDB / MySQL
+- Infra: 
+- Monitoring:Prometheus / Grafana
 
 ---
 
-## 실행 방법 (예시 템플릿)
+## 실행 방법
 
-> 실제 실행 명령으로 바꿔 넣어주세요.
 
 ```bash
 # 1) clone
@@ -161,4 +155,5 @@ cp .env.example .env
 
 # 3) run
 docker compose up -d
+
 
