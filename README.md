@@ -28,7 +28,7 @@
 
 
 ## 3. 시스템 아키텍처 (System Architecture)
-[아키텍처(Architecture.pdf)](docs/Architecture.pdf)
+<img src= "images/Architecture.png">
 
 
 ---
@@ -37,6 +37,7 @@
 <img src= "images/erd.png">
 
 ---
+
 
 
 
