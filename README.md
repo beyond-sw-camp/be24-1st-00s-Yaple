@@ -15,13 +15,7 @@ Yaple (야플) - README
 ---
 
 ## 팀원 소개
-
-| 이름 | 역할(예시) | GitHub |
-|---|---|---|
-| 김민규 |
-| 이선엽 |
-| 범윤준 | 
-| 최재원 | 
+김민규, 이선엽, 범윤준, 최재원
 
 > GitHub 프로필 링크가 있으면 `[@아이디](https://github.com/아이디)` 형태로 넣어주세요.
 
@@ -167,3 +161,4 @@ cp .env.example .env
 
 # 3) run
 docker compose up -d
+
