@@ -174,6 +174,22 @@ Yaple (야플) - README (Fancy)
 
 ## 🚀 부하 테스트
 <details>
+  <summary><b>계정 생성</b></summary>
+전
+
+후
+ 
+</details>
+
+<details>
+  <summary><b>계정 조회</b></summary>
+전
+
+후
+ 
+</details>
+
+<details>
   <summary><b>경기 조회</b></summary>
 전
   <img src="images/before_game.png">
@@ -205,6 +221,7 @@ Yaple (야플) - README (Fancy)
 후
  
 </details>
+
 
 
 
