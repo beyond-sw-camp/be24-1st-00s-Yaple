@@ -81,7 +81,6 @@ Yaple (야플) - README (Fancy)
 ---
 
 ## 🛡️ 안전 · 운영 정책(예시)
-> 실제 운영 규칙에 맞게 숫자만 조정하면 돼요.
 
 - 신고 접수 → 증빙 확인(게시글/채팅 로그) → 조치
 - 누적 제재 예시  
@@ -93,7 +92,6 @@ Yaple (야플) - README (Fancy)
 ---
 
 ## 🧰 기술 스택
-> 실제 사용 스택으로 바꿔 넣어줘!
 
 - **Front-end**:React / Next.js
 - **Back-end**: Spring Boot / Node.js
@@ -105,7 +103,9 @@ Yaple (야플) - README (Fancy)
 
 ## 📌 문서(Docs)
 
-- 📄 프로젝트 기획서: `docs/프로젝트 기획안.pdf`
+- 📄 프로젝트 기획서:
+"(docs/Yaple_프로젝트기획서.pdf)"
+
 - 🧱 시스템 아키텍처:
 
   <p align="center">
@@ -127,6 +127,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
