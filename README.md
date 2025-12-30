@@ -176,9 +176,7 @@ Yaple (야플) - README (Fancy)
 ## 🚀 부하 테스트
 <details>
   <summary><b>계정 생성</b></summary>
-전
-
-후
+ <img src="images/create_id.png">
  
 </details>
 
@@ -222,6 +220,7 @@ Yaple (야플) - README (Fancy)
 후
  
 </details>
+
 
 
 
