@@ -98,15 +98,15 @@ Yaple (야플) - README (Fancy)
 ## 🧰 기술 스택
 
 <div>
-  <img src="https://img.shields.io/badge/static/v1?label=VUE.JS&message=&color=4FC08D&style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/static/v1?label=PINIA&message=&color=F7DF1E&style=for-the-badge&logo=pinia&logoColor=black" />
-  <img src="https://img.shields.io/badge/static/v1?label=NGINX&message=&color=009639&style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinia-F7DF1E?style=for-the-badge&logo=pinia&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/static/v1?label=GIT&message=&color=F05032&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/static/v1?label=GITHUB&message=&color=181717&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/static/v1?label=FIGMA&message=&color=F24E1E&style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 ---
@@ -160,6 +160,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
