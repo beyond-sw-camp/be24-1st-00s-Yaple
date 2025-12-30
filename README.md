@@ -159,7 +159,7 @@ Yaple (야플) - README (Fancy)
 
 ## 🚀 실행 방법
 <details>
-  <summary>요구사항 명세서 보기</summary>
+  <summary>실행 방법</summary>
 ```bash
 git clone <repo-url>
 cd <repo>
