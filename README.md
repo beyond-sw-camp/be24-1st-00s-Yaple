@@ -183,6 +183,10 @@ Yaple (야플) - README (Fancy)
 
 <details>
   <summary><b>게시물 조회</b></summary>
+전
+ <img src="images/before_postview.png">
+후
+ <img src="images/before_postview.png">
 
 </details>
 
@@ -195,6 +199,7 @@ Yaple (야플) - README (Fancy)
   <summary><b>눌러서 열기4</b></summary>
 
 </details>
+
 
 
 
