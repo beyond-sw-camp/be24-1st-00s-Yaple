@@ -199,10 +199,8 @@ Yaple (야플) - README (Fancy)
 
 <details>
   <summary><b>게시물 생성</b></summary>
-전
- 
-후
- 
+<img src="images/post_create.png">
+  
 </details>
 
 <details>
@@ -221,6 +219,7 @@ Yaple (야플) - README (Fancy)
 후
  
 </details>
+
 
 
 
