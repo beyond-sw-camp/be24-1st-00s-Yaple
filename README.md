@@ -144,7 +144,12 @@ Yaple (야플) - README (Fancy)
 <p align="center">
   <img src="images/Architecture.png" alt="Architecture" width="800">
 </p>
+야플(Yaple)은 경기/게시글/동행 모집 등 조회(SELECT) 트래픽이 매우 많은 서비스이며, 경기일·이벤트 오픈 시점에는 짧은 시간에 접속자가 급증합니다. 그래서 읽기 트래픽을 Slave DB로 분산해 Master의 부하를 줄이고 전체 응답 속도를 높였습니다.
 
+또한 게시글 작성/수정, 신고 처리 등 쓰기(INSERT/UPDATE)는 즉시 저장과 빠른 응답이 중요합니다. 클러스터(동기 복제)는 합의·동기화 비용으로 쓰기 지연이 커질 수 있어, Master에 먼저 저장 후 Slave로 비동기 복제하는 Master–Slave 구조가 쓰기 성능에 유리합니다.
+
+따라서 쓰기는 Master에서 단일 처리해 정합성과 빠른 저장을 보장하고, 읽기는 Slave로 분산해 확장성(슬레이브 증설)을 확보했습니다. HAProxy를 통해 트래픽을 유연하게 배분해 일부 노드 장애 시에도 서비스가 유지되는 고가용성을 확보했습니다.
+</p>
 - ### 🍔 요구사항 명세서 
 <details>
   <summary>요구사항 명세서 보기</summary>
@@ -160,13 +165,9 @@ Yaple (야플) - README (Fancy)
 ---
 </p>
 
-## 🚀 실행 방법
-```bash
-git clone <repo-url>
-cd <repo>
+## 🚀 부하 테스트
 
-cp .env.example .env
-docker compose up -d
+
 
 
 
