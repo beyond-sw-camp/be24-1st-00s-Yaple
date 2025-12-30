@@ -8,7 +8,10 @@ Yaple (야플) - README (Fancy)
 <p align="center">
 </p>
 
-<h1 align="center">⚾️ Yaple (야플)</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=900&size=44&pause=250&color=000000&center=true&vCenter=true&repeat=true&width=820&lines=%E2%9A%BE%EF%B8%8F+Yaple+(%EC%95%BC%ED%94%8C)" alt="Yaple typing" />
+</p>
+
 <p align="center">
   <b>야구 입문 · 직관 메이트 · 커뮤니티 · 혜택 · 안전</b><br/>
   <sub>입문자는 더 쉽게, 직관은 더 즐겁게, 커뮤니티는 더 안전하게 🚀</sub>
@@ -139,10 +142,22 @@ Yaple (야플) - README (Fancy)
 
 ### 🧱 시스템 아키텍처
 <p align="center">
-  <img src="images/Architecture.png" alt="Architecture" width="900">
+  <img src="images/Architecture.png" alt="Architecture" width="800">
 </p>
 
-- ### 🍔 요구사항 명세서 
+야플(Yaple)은 경기/게시글/동행 모집 등 **조회(SELECT) 트래픽이 많은 서비스**이며, 경기일·이벤트 오픈 시점에는 접속자가 급증합니다.
+
+그래서 **읽기 요청은 Slave DB로 분산**해 병목을 줄이고 응답 속도를 높였습니다.
+
+반면 게시글 작성/수정, 신고 처리 등 **쓰기(INSERT/UPDATE)** 는 즉시 저장이 중요하므로 **Master DB에서 단일 처리**해 쓰기 원본을 일원화했습니다.
+
+이후 변경 사항은 Slave로 복제되어 읽기 확장에 활용됩니다.
+
+결과적으로 **쓰기 성능과 데이터 관리의 단순함을 유지**하면서도, **읽기 트래픽은 수평 확장(슬레이브 증설)로 대응**할 수 있는 구조를 채택했습니다.
+
+</p>
+
+### 🍔 요구사항 명세서 
 <details>
   <summary>요구사항 명세서 보기</summary>
      <img width="900" height="900" alt="요구사항 명세서" src="images/Product_requiments_Document.jpg" />
@@ -157,13 +172,33 @@ Yaple (야플) - README (Fancy)
 ---
 </p>
 
-## 🚀 실행 방법
-```bash
-git clone <repo-url>
-cd <repo>
+## 🚀 부하 테스트
 
-cp .env.example .env
-docker compose up -d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
