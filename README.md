@@ -215,10 +215,11 @@ Yaple (야플) - README (Fancy)
 <details>
   <summary><b>구매내역 조회</b></summary>
 전
-
+ <img src="images/before_pur.png">
 후
- 
+ <img src="images/after_pur.png">
 </details>
+
 
 
 
