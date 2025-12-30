@@ -266,6 +266,8 @@ Yaple (야플) - README (Fancy)
 </div>
 </details>
 
+
+
 <details>
   <summary><b>📝총평</b></summary>
 
@@ -274,6 +276,7 @@ Yaple (야플) - README (Fancy)
 - **아키텍처:** DB 튜닝(인덱스)으로 조회 성능 병목을 제거해, HAProxy 기반 읽기 분산과 Prometheus/Grafana 모니터링의 효과를 더 잘 끌어낼 수 있는 상태가 되었습니다.
 
 </details>
+
 
 
 
