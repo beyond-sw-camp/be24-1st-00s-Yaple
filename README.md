@@ -58,6 +58,7 @@ Yaple (야플) - README (Fancy)
 - **야구장 굿즈상품**으로 관심도도 ↑
 
 ---
+</p>
 
 ## 🧩 핵심 기능
 아래 기능들이 한 흐름으로 연결돼요 👇
@@ -68,6 +69,7 @@ Yaple (야플) - README (Fancy)
 | 선생님(인증) 편집 | 매칭/확정 흐름 | 질문(Q&A) |
 
 ---
+</p>
 
 ## 👤 사용자 시나리오
 ### 🌱 새싹(입문자)
@@ -84,12 +86,14 @@ Yaple (야플) - README (Fancy)
 신고 처리 → 경고/제재 → 선생님 인증/권한 관리
 
 ---
+</p>
 
 ## 🛡️ 안전 · 운영 정책
 
 - 오프라인 동행 안전 가이드: 연락처 최소 공개 / 공공장소 만남 권장 ✅
 
 ---
+</p>
 
 ## 🧰 기술 스택
 
@@ -100,6 +104,7 @@ Yaple (야플) - README (Fancy)
 - **Monitoring**: Prometheus / Grafana
 
 ---
+</p>
 
 ## 📌 문서(Docs)
 
@@ -132,6 +137,7 @@ Yaple (야플) - README (Fancy)
 </p>
 
 ---
+</p>
 
 ## 🚀 실행 방법
 
@@ -141,6 +147,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
