@@ -198,6 +198,14 @@ Yaple (야플) - README (Fancy)
 </details>
 
 <details>
+  <summary><b>게시물 생성</b></summary>
+전
+ 
+후
+ 
+</details>
+
+<details>
   <summary><b>게시물 조회</b></summary>
 전
  <img src="images/before_postview.png">
@@ -207,20 +215,13 @@ Yaple (야플) - README (Fancy)
 </details>
 
 <details>
-  <summary><b>게시물 생성</b></summary>
-전
- 
-후
- 
-</details>
-
-<details>
   <summary><b>구매내역 조회</b></summary>
 전
 
 후
  
 </details>
+
 
 
 
