@@ -191,14 +191,21 @@ Yaple (야플) - README (Fancy)
 </details>
 
 <details>
-  <summary><b>상품 조회</b></summary>
-
+  <summary><b>게시물 생성</b></summary>
+전
+ 
+후
+ 
 </details>
 
 <details>
-  <summary><b>눌러서 열기4</b></summary>
+  <summary><b>구매내역 조회</b></summary>
+전
 
+후
+ 
 </details>
+
 
 
 
