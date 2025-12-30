@@ -2,6 +2,7 @@
   <img src="images/mainimage.png" alt="Architecture" width="500">
 </p>
 <!-- =======================================================
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1200&color=111111&center=true&vCenter=true&width=600&lines=Yaple" />
 Yaple (야플) - README (Fancy)
 ======================================================= -->
 
@@ -164,6 +165,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
