@@ -139,7 +139,7 @@ Yaple (야플) - README (Fancy)
 
 ### 🧱 시스템 아키텍처
 <p align="center">
-  <img src="images/Architecture.png" alt="Architecture" width="900">
+  <img src="images/Architecture.png" alt="Architecture" width="800">
 </p>
 
 - ### 🍔 요구사항 명세서 
@@ -164,6 +164,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
