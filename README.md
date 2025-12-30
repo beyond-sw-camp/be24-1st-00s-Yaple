@@ -17,7 +17,7 @@ Yaple (야플) - README (Fancy)
   <img src="https://img.shields.io/badge/Status-Developing-orange?style=for-the-badge" />
 </p>
 
-<!-- ✅ 팀원(한 줄 4명) -->
+<!-- ✅ 팀원 -->
 <p align="center">
   <b>👥 Team</b><br/>
   <sub>김민규 · 범윤준 · 이선엽 · 최재원</sub>
@@ -113,6 +113,16 @@ Yaple (야플) - README (Fancy)
     <img src="https://img.shields.io/badge/📕%20Yaple%20프로젝트%20기획안-PDF%20바로%20보기-blue?style=for-the-badge" />
   </a>
 </p>
+<p align="center">
+  <a href="docs/요구사항%20정의서.pdf">
+    <img src="https://img.shields.io/badge/📝%20요구사항%20정의서-PDF%20바로%20보기-6f42c1?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="docs/테이블%20명세서.pdf">
+    <img src="https://img.shields.io/badge/🗂️%20테이블%20명세서-PDF%20바로%20보기-0ea5e9?style=for-the-badge" />
+  </a>
+</p>
+
 
 ### 🧱 시스템 아키텍처
 <p align="center">
@@ -134,6 +144,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
