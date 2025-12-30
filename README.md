@@ -182,18 +182,18 @@ Yaple (야플) - README (Fancy)
 
 <details>
   <summary><b>계정 조회</b></summary>
-전
+index 처리 전
  <img src="images/before_viewid.png">
-후
+index 처리 후
  <img src="images/after_viewid.png">
 
 </details>
 
 <details>
   <summary><b>경기 조회</b></summary>
-전
+index 처리 전
   <img src="images/before_game.png">
-후
+index 처리 후
   <img src="images/after_game.png">
 </details>
 
@@ -205,20 +205,21 @@ Yaple (야플) - README (Fancy)
 
 <details>
   <summary><b>게시물 조회</b></summary>
-전
+index 처리 전
  <img src="images/before_postview.png">
-후
+index 처리 후
  <img src="images/after_postview.png">
 
 </details>
 
 <details>
   <summary><b>구매내역 조회</b></summary>
-전
+index 처리 전
  <img src="images/before_pur.png">
-후
+index 처리 후
  <img src="images/after_pur.png">
 </details>
+
 
 
 
