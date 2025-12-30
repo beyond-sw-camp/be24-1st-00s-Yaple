@@ -8,7 +8,7 @@ Yaple (야플) - README (Fancy)
 <p align="center">
 </p>
 
-<h1 align="center">⚾️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1200&color=111111&center=true&vCenter=true&width=600&lines=Yaple" /> (야플)</h1>
+<h1 align="center">⚾️<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1200&color=111111&center=true&vCenter=true&width=600&lines=Yaple" />(야플)</h1>
 <p align="center">
   <b>야구 입문 · 직관 메이트 · 커뮤니티 · 혜택 · 안전</b><br/>
   <sub>입문자는 더 쉽게, 직관은 더 즐겁게, 커뮤니티는 더 안전하게 🚀</sub>
@@ -164,6 +164,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
