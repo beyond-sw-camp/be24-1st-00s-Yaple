@@ -95,12 +95,12 @@ Yaple (야플) - README (Fancy)
 ---
 </p>
 
-## 🧰 기술 스택 (예정)
+## 🧰 기술 스택
 
 - **Front-end**: React / Next.js
 - **Back-end**: Spring Boot / Node.js
 - **DB**: MariaDB
-- **Infra**: Nginx
+- **Infra**: Docker / Nginx / GitHub Actions
 - **Monitoring**: Prometheus / Grafana
 
 ---
@@ -130,6 +130,13 @@ Yaple (야플) - README (Fancy)
 <p align="center">
   <img src="images/Architecture.png" alt="Architecture" width="900">
 </p>
+
+- ### 🍔 요구사항 명세서 
+<details>
+  <summary>요구사항 명세서 보기</summary>
+     <img width="900" height="900" alt="요구사항 명세서" src="images/Product_requiments_Document.jpg" />
+</details>
+
 
 ### 🗺️ ERD
 <p align="center">
@@ -161,6 +168,3 @@ docker compose up -d
 
 
 
-
-
-TEST
