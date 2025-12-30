@@ -19,8 +19,10 @@ Yaple (야플) - README (Fancy)
 
 <!-- ✅ 팀원 -->
 <p align="center">
-  <b>👥 Team</b><br/>
-  <sub>김민규 · 범윤준 · 이선엽 · 최재원</sub>
+  <b style="font-size:18px;">👥 Team</b><br/>
+  <span style="font-size:20px; font-weight:700;">
+    김민규 · 범윤준 · 이선엽 · 최재원
+  </span>
 </p>
 
 <p align="center">
@@ -145,6 +147,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
