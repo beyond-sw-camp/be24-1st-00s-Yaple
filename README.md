@@ -9,8 +9,9 @@ Yaple (야플) - README (Fancy)
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&pause=600&center=true&vCenter=true&repeat=true&width=520&lines=Yaple" alt="Yaple typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&pause=250&color=000000&center=true&vCenter=true&repeat=true&width=520&lines=Yaple" alt="Yaple typing" />
 </p>
+
 
 <p align="center">
   <b>야구 입문 · 직관 메이트 · 커뮤니티 · 혜택 · 안전</b><br/>
@@ -167,6 +168,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
