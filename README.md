@@ -100,7 +100,7 @@ Yaple (야플) - README (Fancy)
 - **Front-end**: React / Next.js
 - **Back-end**: Spring Boot / Node.js
 - **DB**: MariaDB
-- **Infra**: Docker / Nginx / GitHub Actions
+- **Infra**: Nginx
 - **Monitoring**: Prometheus / Grafana
 
 ---
@@ -147,6 +147,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
