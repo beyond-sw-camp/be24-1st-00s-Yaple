@@ -175,7 +175,10 @@ Yaple (야플) - README (Fancy)
 ## 🚀 부하 테스트
 <details>
   <summary><b>경기 조회</b></summary>
-
+전
+  <img src="images/before_game.png">
+후
+  <img src="images/after_game.png">
 </details>
 
 <details>
@@ -192,6 +195,7 @@ Yaple (야플) - README (Fancy)
   <summary><b>눌러서 열기4</b></summary>
 
 </details>
+
 
 
 
