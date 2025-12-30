@@ -106,8 +106,16 @@ Yaple (야플) - README (Fancy)
 ## 📌 문서(Docs)
 
 - 📄 프로젝트 기획서: `docs/프로젝트 기획안.pdf`
-- 🧱 시스템 아키텍처: `docs/images/architecture.png`
-- 🗺️ ERD: `docs/images/erd.png`
+- 🧱 시스템 아키텍처:
+
+  <p align="center">
+  <img src="images/Architecture.png" alt="Architecture" width="900">
+</p>
+- 🗺️ ERD:
+
+<p align="center">
+  <img src="images/erd.png" alt="ERD" width="900">
+</p>
 
 <p align="center">
   <img src="docs/images/architecture.png" alt="Architecture" width="90%" />
@@ -127,5 +135,6 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
