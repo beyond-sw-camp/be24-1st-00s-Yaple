@@ -174,12 +174,12 @@ Yaple (야플) - README (Fancy)
 
 ## 🚀 부하 테스트
 <details>
-  <summary><b>눌러서 열기1</b></summary>
+  <summary><b>경기 조회</b></summary>
 
 </details>
 
 <details>
-  <summary><b>눌러서 열기2</b></summary>
+  <summary><b>상품 조회</b></summary>
 
 </details>
 
@@ -192,6 +192,7 @@ Yaple (야플) - README (Fancy)
   <summary><b>눌러서 열기4</b></summary>
 
 </details>
+
 
 
 
