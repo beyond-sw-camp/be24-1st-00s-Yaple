@@ -208,7 +208,7 @@ Yaple (야플) - README (Fancy)
 전
  <img src="images/before_postview.png">
 후
- <img src="images/before_postview.png">
+ <img src="images/after_postview.png">
 
 </details>
 
@@ -219,6 +219,7 @@ Yaple (야플) - README (Fancy)
 후
  
 </details>
+
 
 
 
