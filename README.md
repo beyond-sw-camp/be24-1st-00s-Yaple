@@ -4,6 +4,9 @@
 <!-- =======================================================
 Yaple (야플) - README (Fancy)
 ======================================================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1200&color=111111&center=true&vCenter=true&width=600&lines=Yaple" />
+</p>
 
 <p align="center">
 </p>
@@ -164,6 +167,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
