@@ -34,6 +34,7 @@ Yaple (야플) - README (Fancy)
 </p>
 
 ---
+</p>
 
 ## ✨ 한 줄 소개
 **야플(Yaple)**은 야구 입문자가 팀/룰/관전 포인트를 빠르게 배우고 📚  
@@ -142,6 +143,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
