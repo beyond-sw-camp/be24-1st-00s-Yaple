@@ -41,7 +41,8 @@ Yaple (야플) - README (Fancy)
 
 ---
 ## ✨ 한 줄 소개
-**야플(Yaple)**은 야구 입문자가 팀/룰/관전 포인트를 빠르게 배우고 📚  
+
+**야플**(**Yaple**)은 야구 입문자가 팀/룰/관전 포인트를 빠르게 배우고 📚  
 경기 직관 동행자를 안전하게 구하며 🤝  
 같은 취향의 팬들과 소통할 수 있는 🗣️ **통합 웹 플랫폼**입니다.
 
@@ -174,6 +175,22 @@ Yaple (야플) - README (Fancy)
 
 ## 🚀 부하 테스트
 <details>
+  <summary><b>계정 생성</b></summary>
+전
+
+후
+ 
+</details>
+
+<details>
+  <summary><b>계정 조회</b></summary>
+전
+
+후
+ 
+</details>
+
+<details>
   <summary><b>경기 조회</b></summary>
 전
   <img src="images/before_game.png">
@@ -182,19 +199,35 @@ Yaple (야플) - README (Fancy)
 </details>
 
 <details>
+  <summary><b>게시물 생성</b></summary>
+전
+ 
+후
+ 
+</details>
+
+<details>
   <summary><b>게시물 조회</b></summary>
+전
+ <img src="images/before_postview.png">
+후
+ <img src="images/before_postview.png">
 
 </details>
 
 <details>
-  <summary><b>상품 조회</b></summary>
+  <summary><b>구매내역 조회</b></summary>
+전
 
+후
+ 
 </details>
 
-<details>
-  <summary><b>눌러서 열기4</b></summary>
 
-</details>
+
+
+
+
 
 
 
