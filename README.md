@@ -117,14 +117,6 @@ Yaple (야플) - README (Fancy)
   <img src="images/erd.png" alt="ERD" width="900">
 </p>
 
-<p align="center">
-  <img src="docs/images/architecture.png" alt="Architecture" width="90%" />
-</p>
-
-<p align="center">
-  <img src="docs/images/erd.png" alt="ERD" width="90%" />
-</p>
-
 ---
 
 ## 🚀 실행 방법
@@ -135,6 +127,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
