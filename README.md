@@ -95,7 +95,7 @@ Yaple (야플) - README (Fancy)
 ---
 </p>
 
-## 🧰 기술 스택 (예정)
+## 🧰 기술 스택
 <div>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Galera-2C5BB4?style=for-the-badge&logoColor=white" />
@@ -162,6 +162,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
