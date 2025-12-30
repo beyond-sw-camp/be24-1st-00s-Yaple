@@ -157,7 +157,6 @@ Yaple (야플) - README (Fancy)
 결과적으로 **쓰기 성능과 데이터 관리의 단순함을 유지**하면서도, **읽기 트래픽은 수평 확장(슬레이브 증설)로 대응**할 수 있는 구조를 채택했습니다.
 
 </p>
-</p>
 
 
 ### 🍔 요구사항 명세서 
@@ -178,7 +177,13 @@ Yaple (야플) - README (Fancy)
 ## 🚀 부하 테스트
 <details>
   <summary><b>계정 생성</b></summary>
- <img src="images/create_id.png">
+  
+<br/>
+
+**✅ index 처리 후 (AFTER)**  
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+  <img src="images/create_id.png">
+</div>
  
 </details>
 
@@ -221,6 +226,7 @@ index 처리 전
 index 처리 후
  <img src="images/after_pur.png">
 </details>
+
 
 
 
