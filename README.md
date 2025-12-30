@@ -4,7 +4,6 @@ Yaple (야플) - README (Fancy)
 ======================================================= -->
 
 <p align="center">
-  <img src="docs/images/banner.svg" alt="Yaple Banner" width="100%" />
 </p>
 
 <h1 align="center">⚾️ Yaple (야플)</h1>
@@ -128,3 +127,4 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
