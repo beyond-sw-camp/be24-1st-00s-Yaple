@@ -178,54 +178,93 @@ Yaple (야플) - README (Fancy)
 <details>
   <summary><b>계정 생성</b></summary>
   
-<br/>
-
-**✅ index 처리 후 (AFTER)**  
-<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
   <img src="images/create_id.png">
-</div>
  
 </details>
 
 <details>
   <summary><b>계정 조회</b></summary>
-index 처리 전
- <img src="images/before_viewid.png">
-index 처리 후
- <img src="images/after_viewid.png">
+
+<br/>
+
+**✅ index 처리 전 (BEFORE)** 
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+  <img src="images/before_viewid.png">
+</div>
+
+<br/>
+
+**✅ index 처리 후 (AFTER)**  
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+  <img src="images/after_viewid.png">
+</div>
 
 </details>
 
 <details>
   <summary><b>경기 조회</b></summary>
-index 처리 전
+
+<br/>
+
+**✅ index 처리 전 (BEFORE)** 
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
   <img src="images/before_game.png">
-index 처리 후
+</div>
+
+<br/>
+
+**✅ index 처리 후 (AFTER)**  
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
   <img src="images/after_game.png">
+</div>
+
 </details>
 
 <details>
   <summary><b>게시물 생성</b></summary>
-<img src="images/post_create.png">
-  
+
+<br/>
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+  <img src="images/post_create.png">
+</div>
+
 </details>
 
 <details>
   <summary><b>게시물 조회</b></summary>
-index 처리 전
- <img src="images/before_postview.png">
-index 처리 후
- <img src="images/after_postview.png">
 
+<br/>
+
+**✅ index 처리 전 (BEFORE)** 
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+  <img src="images/before_postview.png">
+</div>
+
+<br/>
+
+**✅ index 처리 후 (AFTER)**  
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+  <img src="images/after_postview.png">
+</div>
 </details>
 
 <details>
   <summary><b>구매내역 조회</b></summary>
-index 처리 전
- <img src="images/before_pur.png">
-index 처리 후
- <img src="images/after_pur.png">
-</details>
+
+<br/>
+
+**✅ index 처리 전 (BEFORE)** 
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+  <img src="images/before_pur.png">
+</div>
+
+<br/>
+
+**✅ index 처리 후 (AFTER)**  
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+  <img src="images/after_pur.png">
+</div>
+
 
 
 
