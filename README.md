@@ -104,7 +104,12 @@ Yaple (야플) - README (Fancy)
 ## 📌 문서(Docs)
 
 - 📄 프로젝트 기획서:
-"(docs/Yaple_프로젝트기획서.pdf)"
+
+<p align="center">
+  <a href="docs/프로젝트%20기획안.pdf">
+    <img src="https://img.shields.io/badge/📕%20Yaple%20프로젝트%20기획안-PDF%20바로%20보기-blue?style=for-the-badge" />
+  </a>
+</p>
 
 - 🧱 시스템 아키텍처:
 
@@ -127,6 +132,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
