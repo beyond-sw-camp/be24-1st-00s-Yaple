@@ -176,14 +176,14 @@ Yaple (야플) - README (Fancy)
 
 ## 🚀 부하 테스트
 <details>
-  <summary><b><span style="color:#2563eb;">👤 계정 생성</span></b></summary>
+  <summary><b>👤 계정 생성</b></summary>
   
   <img src="images/create_id.png">
  
 </details>
 
 <details>
-  <summary><b><span style="color:#2563eb;">🔍 계정 조회</span></b></summary>
+  <summary><b>🔍 계정 조회</b></summary>
 
 <br/>
 
@@ -202,7 +202,7 @@ Yaple (야플) - README (Fancy)
 </details>
 
 <details>
-  <summary><b><span style="color:#f97316;">⚾ 경기 조회</span></b></summary>
+  <summary><b>⚾ 경기 조회</b></summary>
 
 <br/>
 
@@ -221,7 +221,7 @@ Yaple (야플) - README (Fancy)
 </details>
 
 <details>
-  <summary><b><span style="color:#10b981;">📝 게시물 생성</span></b></summary>
+  <summary><b>📝 게시물 생성</b></summary>
 
 <br/>
 <div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
@@ -231,7 +231,7 @@ Yaple (야플) - README (Fancy)
 </details>
 
 <details>
-   <summary><b><span style="color:#10b981;">📬게시물 조회</span></b></summary>
+   <summary><b>📬게시물 조회</b></summary>
 
 <br/>
 
@@ -249,7 +249,7 @@ Yaple (야플) - README (Fancy)
 </details>
 
 <details>
-   <summary><b><span style="color:#a855f7;">🛒 구매내역 조회</span></b></summary>
+   <summary><b>🛒 구매내역 조회</b></summary>
 <br/>
 
 **⚪ index 처리 전 (BEFORE)** 
@@ -275,6 +275,7 @@ Yaple (야플) - README (Fancy)
 - **아키텍처:** DB 튜닝(인덱스)으로 조회 성능 병목을 제거해, HAProxy 기반 읽기 분산과 Prometheus/Grafana 모니터링의 효과를 더 잘 끌어낼 수 있는 상태가 되었습니다.
 
 </details>
+
 
 
 
