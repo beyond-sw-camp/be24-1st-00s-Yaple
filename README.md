@@ -8,9 +8,8 @@ Yaple (야플) - README (Fancy)
 <p align="center">
 </p>
 
-<h1 align="center">⚾️ Yaple (야플)</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FC08D,100:06B6D4&height=2&section=header" />
+  <img src="https://img.shields.io/badge/%E2%9A%BE%EF%B8%8F%20Yaple%20(%EC%95%BC%ED%94%8C)-4FC08D?style=for-the-badge&logoColor=white" />
 </p>
 <p align="center">
   <b>야구 입문 · 직관 메이트 · 커뮤니티 · 혜택 · 안전</b><br/>
@@ -167,6 +166,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
