@@ -187,7 +187,7 @@ Yaple (야플) - README (Fancy)
 
 <br/>
 
-**✅ index 처리 전 (BEFORE)** 
+**⚪ index 처리 전 (BEFORE)** 
 <div style="border:3px solid #94a3b8; border-radius:12px; padding:10px; display:inline-block; background:#f8fafc;">
   <img src="images/before_viewid.png">
 </div>
@@ -195,7 +195,7 @@ Yaple (야플) - README (Fancy)
 <br/>
 
 **✅ index 처리 후 (AFTER)**  
-<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block; background:#f0fdf4;">
   <img src="images/after_viewid.png">
 </div>
 
@@ -206,7 +206,7 @@ Yaple (야플) - README (Fancy)
 
 <br/>
 
-**✅ index 처리 전 (BEFORE)** 
+**⚪ index 처리 전 (BEFORE)** 
 <div style="border:3px solid #94a3b8; border-radius:12px; padding:10px; display:inline-block; background:#f8fafc;">
   <img src="images/before_game.png">
 </div>
@@ -214,7 +214,7 @@ Yaple (야플) - README (Fancy)
 <br/>
 
 **✅ index 처리 후 (AFTER)**  
-<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block; background:#f0fdf4;">
   <img src="images/after_game.png">
 </div>
 
@@ -235,7 +235,7 @@ Yaple (야플) - README (Fancy)
 
 <br/>
 
-**✅ index 처리 전 (BEFORE)** 
+**⚪ index 처리 전 (BEFORE)** 
 <div style="border:3px solid #94a3b8; border-radius:12px; padding:10px; display:inline-block; background:#f8fafc;">
   <img src="images/before_postview.png">
 </div>
@@ -243,7 +243,7 @@ Yaple (야플) - README (Fancy)
 <br/>
 
 **✅ index 처리 후 (AFTER)**  
-<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block; background:#f0fdf4;">
   <img src="images/after_postview.png">
 </div>
 </details>
@@ -253,7 +253,7 @@ Yaple (야플) - README (Fancy)
 
 <br/>
 
-**✅ index 처리 전 (BEFORE)** 
+**⚪ index 처리 전 (BEFORE)** 
 <div style="border:3px solid #94a3b8; border-radius:12px; padding:10px; display:inline-block; background:#f8fafc;">
   <img src="images/before_pur.png">
 </div>
@@ -261,9 +261,10 @@ Yaple (야플) - README (Fancy)
 <br/>
 
 **✅ index 처리 후 (AFTER)**  
-<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block;">
+<div style="border:3px solid #22c55e; border-radius:12px; padding:10px; display:inline-block; background:#f0fdf4;">
   <img src="images/after_pur.png">
 </div>
+
 
 
 
