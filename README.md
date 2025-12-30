@@ -176,7 +176,7 @@ Yaple (야플) - README (Fancy)
 
 ## 🚀 부하 테스트
 <details>
-  <summary><b>👤계정 생성</b></summary>
+  <summary><b><span style="background:#dbeafe; color:#1d4ed8; padding:2px 8px; border-radius:999px; font-weight:700;">계정</span> 👤 계정 생성</b></summary>
   
   <img src="images/create_id.png">
  
@@ -276,6 +276,7 @@ Yaple (야플) - README (Fancy)
 - **아키텍처:** DB 튜닝(인덱스)으로 조회 성능 병목을 제거해, HAProxy 기반 읽기 분산과 Prometheus/Grafana 모니터링의 효과를 더 잘 끌어낼 수 있는 상태가 되었습니다.
 
 </details>
+
 
 
 
