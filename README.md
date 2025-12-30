@@ -95,13 +95,21 @@ Yaple (야플) - README (Fancy)
 ---
 </p>
 
-## 🧰 기술 스택 (예정)
+## 🧰 기술 스택
+<div>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Galera-2C5BB4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HAProxy-1E90FF?style=for-the-badge&logo=haproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</div>
 
-- **Front-end**: React / Next.js
-- **Back-end**: Spring Boot / Node.js
-- **DB**: MariaDB
-- **Infra**: Docker / Nginx / GitHub Actions
-- **Monitoring**: Prometheus / Grafana
+<div>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+</div>
 
 ---
 </p>
@@ -131,6 +139,13 @@ Yaple (야플) - README (Fancy)
   <img src="images/Architecture.png" alt="Architecture" width="900">
 </p>
 
+- ### 🍔 요구사항 명세서 
+<details>
+  <summary>요구사항 명세서 보기</summary>
+     <img width="900" height="900" alt="요구사항 명세서" src="images/Product_requiments_Document.jpg" />
+</details>
+
+
 ### 🗺️ ERD
 <p align="center">
   <img src="images/erd.png" alt="ERD" width="900">
@@ -147,6 +162,10 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
+
+
+
 
 
 
