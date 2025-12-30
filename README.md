@@ -29,7 +29,6 @@ Yaple (야플) - README (Fancy)
   <a href="#-사용자-시나리오">시나리오</a> •
   <a href="#-기술-스택">기술 스택</a> •
   <a href="#-문서docs">문서</a> •
-  <a href="#-팀원">팀원</a>
 </p>
 
 ---
@@ -135,4 +134,5 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
