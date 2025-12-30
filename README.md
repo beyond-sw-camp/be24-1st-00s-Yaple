@@ -150,7 +150,8 @@ Yaple (야플) - README (Fancy)
 
 따라서 쓰기는 Master에서 단일 처리해 정합성과 빠른 저장을 보장하고, 읽기는 Slave로 분산해 확장성(슬레이브 증설)을 확보했습니다. HAProxy를 통해 트래픽을 유연하게 배분해 일부 노드 장애 시에도 서비스가 유지되는 고가용성을 확보했습니다.
 </p>
-- ### 🍔 요구사항 명세서 
+
+### 🍔 요구사항 명세서 
 <details>
   <summary>요구사항 명세서 보기</summary>
      <img width="900" height="900" alt="요구사항 명세서" src="images/Product_requiments_Document.jpg" />
@@ -166,6 +167,7 @@ Yaple (야플) - README (Fancy)
 </p>
 
 ## 🚀 부하 테스트
+
 
 
 
