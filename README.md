@@ -158,15 +158,13 @@ Yaple (야플) - README (Fancy)
 </p>
 
 ## 🚀 실행 방법
-<details>
-  <summary>실행 방법</summary>
 ```bash
 git clone <repo-url>
 cd <repo>
 
 cp .env.example .env
 docker compose up -d
-</details>
+
 
 
 
