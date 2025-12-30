@@ -95,7 +95,7 @@ Yaple (야플) - README (Fancy)
 ---
 </p>
 
-## 🧰 기술 스택
+## 🧰 기술 스택 (예정)
 
 - **Front-end**: React / Next.js
 - **Back-end**: Spring Boot / Node.js
@@ -147,6 +147,7 @@ cd <repo>
 
 cp .env.example .env
 docker compose up -d
+
 
 
 
